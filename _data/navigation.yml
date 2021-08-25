@@ -1,9 +1,9 @@
 header:
-  - title: Home
+  - title: 主页
     url:   /index.html
-  - title: Archive
+  - title: 归档
     url:   /archive.html
-  - title: About
+  - title: 关于
     url:   /about.html
-  - title: Friends
+  - title: 朋友
     url:   /friends.html
